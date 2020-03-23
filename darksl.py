@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+# Author : D4RKSH4D0WS
+# Rikod boleh. Tapi jangan hapus author ya kampank
 import requests,time,os,random,sys
 G0 = "\033[0;32m"
 G1 = "\033[1;32m"
