@@ -1,5 +1,6 @@
 # DARKsl
 # Short link cli
-# Powered by https://is.gd
+use python2
 
-![Screenshot_2020-03-23-21-55-05](https://user-images.githubusercontent.com/49472584/77330281-b1251f00-6d51-11ea-99f1-6c9e39b285a9.png)
+![Screenshot_2020-04-12-19-24-28-1](https://user-images.githubusercontent.com/49472584/79068781-a677fd00-7cf3-11ea-9305-6332818f15c8.png)
+
